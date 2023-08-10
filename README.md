@@ -1,6 +1,6 @@
 # Features
 
-  - Discord token info
+  - **Discord token info:**
 
 * Nitro
 * Badges
@@ -11,7 +11,7 @@
 * HQ Friends
 * Gift codes
 
-  - Browser data
+  - **Browser data:**
 
 * Cookies
 * Passwords
@@ -20,7 +20,7 @@
 * Autofill
 * Chrome, Edge, Brave, Opera GX, and many more...
 
-  - Injection:
+  - **Injection:**
 
 * Nitro Auto Buy
 * First Start Reporter
